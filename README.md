@@ -9,11 +9,10 @@ This version: phlcovidcontracts v1 - 18 May 2021
 
 Scope: Publicly available coronavirus-related government contracts worth P20 billion ($400 million) from the Government Procurement Policy Board website as of 3 August 2020.
 
-Source: Raw data from https://gppbgovph.com/awardedcontracts.php
-
+Link to working paper: http://wesolve.ph/research/strengthening-procurement
 Link to clean dataset and code: http://bit.ly/phlcovidcontracts
-
 Link to raw contract data (1.6 GB): http://bit.ly/phlcovidcontractsRaw
+Link to source data: Raw data from https://gppbgovph.com/awardedcontracts.php
 
 Working Paper: Strengthening Procurement in the Time of a Pandemic: Evidence from the Philippines
 
