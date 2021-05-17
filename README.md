@@ -13,9 +13,12 @@ Link to working paper: http://wesolve.ph/research/strengthening-procurement
 
 Link to clean dataset and code: http://bit.ly/phlcovidcontracts
 
+Link to paper on ResearchGate: http://bit.ly/phlcovidcontractspaper
+
 Link to raw contract data (1.6 GB): http://bit.ly/phlcovidcontractsRaw
 
 Link to source data: Raw data from https://gppbgovph.com/awardedcontracts.php
+
 
 Working Paper: Strengthening Procurement in the Time of a Pandemic: Evidence from the Philippines
 
