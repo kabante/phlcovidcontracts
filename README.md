@@ -1,7 +1,8 @@
 # phlcovidcontracts
 The Philippine Open Covid Contracts Dataset v1 18 May 2021
 
-Dataset: Philippine Open Covid Contracts Dataset
+Institutions: WeSolve Data for Empowerment Program, Citizens' Budget Tracker, funded and supported by Hivos Southeast Asia's Open Up Contracting Program
+
 
 License: CC-BY-SA-4.0
 
@@ -21,8 +22,6 @@ Link to source data: Raw data from https://gppbgovph.com/awardedcontracts.php
 
 
 Working Paper: Strengthening Procurement in the Time of a Pandemic: Evidence from the Philippines
-
-Institutions: WeSolve Data for Empowerment Program, Citizens' Budget Tracker, funded and supported by Hivos Southeast Asia's Open Up Contracting Program
 
 Authors: Kenneth Isaiah Ibasco Abante [1, 2], Laurence Go [2], John Michael C. Lava [2], James Russel A. Ramos [2], Reinabelle C. Reyes [2, 3], Ella Rosales [2], Jose R. Rueda IV [2, 4]
 
